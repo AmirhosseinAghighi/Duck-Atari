@@ -1,0 +1,17 @@
+Index: main.c
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.c b/main.c
+--- a/main.c	
++++ b/main.c	(date 1706125764189)
+@@ -19,7 +19,7 @@
+         return -1;
+     }
+ 
+-    SDL_Surface *menuBackground = loadImage("C:\\Users\\Asus\\Desktop\\quera\\ce-class\\BP\\final-project-lab\\images\\space4.jpg");
++    SDL_Surface *menuBackground = loadImage("C:\\Users\\Asus\\Desktop\\quera\\ce-class\\BP\\final-project-lab\\images\\space4.png");
+     if (menuBackground == NULL) {
+         SDL_Log("There was an error in loading image from the directory of images/image.jpg !!");
+         return -2;

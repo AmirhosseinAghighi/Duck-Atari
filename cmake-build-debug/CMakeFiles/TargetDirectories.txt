@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/quera/ce-class/BP/final-project-lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/Desktop/quera/ce-class/BP/final-project-lab/cmake-build-debug/CMakeFiles/final_project_lab.dir
+C:/Users/Asus/Desktop/quera/ce-class/BP/final-project-lab/cmake-build-debug/CMakeFiles/edit_cache.dir
