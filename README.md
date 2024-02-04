@@ -16,6 +16,13 @@ Duck Atari is an Atari-style game, reminiscent of River Raid, developed in the C
 
 4. **Jets:**
    - *Behavior:* Fast-moving enemies from the right, with bullets that track the player's spaceship.
+  
+## Screen Shots:
+![menu](https://github.com/AmirhosseinAghighi/Duck-Atari/assets/68964814/c7c354ca-5d42-4b49-add3-a239f475799e)
+![game1](https://github.com/AmirhosseinAghighi/Duck-Atari/assets/68964814/9b2ddb04-5d13-49db-b70c-f82431aac744)
+![game2](https://github.com/AmirhosseinAghighi/Duck-Atari/assets/68964814/3c437ba8-3416-4d91-b6fc-4cb8a075f672)
+![game3](https://github.com/AmirhosseinAghighi/Duck-Atari/assets/68964814/e90489c6-2b01-4864-93f7-f2ebd9f260b5)
+
 
 ## Menu Features:
 
